@@ -1,5 +1,7 @@
 # Odyssey Lift-off III: Arguments
 
+https://user-images.githubusercontent.com/49074930/154529735-62ea75ea-e68b-45be-97ba-dc3b8cde8ad6.mp4
+
 Welcome to the companion app of Odyssey Lift-off III! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part3), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
